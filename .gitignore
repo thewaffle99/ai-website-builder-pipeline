@@ -1,0 +1,14 @@
+# Personal site built with this pipeline — its own separate project, not part of
+# the pipeline itself. Not sensitive, just out of scope here.
+/rene-portfolio/
+
+# Scratch/uploads folder — not part of the reusable pipeline.
+/files/
+
+# Standard junk
+node_modules/
+.next/
+.vercel/
+*.log
+.DS_Store
+Thumbs.db
